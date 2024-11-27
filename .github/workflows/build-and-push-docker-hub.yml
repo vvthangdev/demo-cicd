@@ -30,7 +30,7 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: lamdb/ci-cd:staging
+          tags: arisdev2k2/ci-cd:staging
 
 
   pull-and-up:
